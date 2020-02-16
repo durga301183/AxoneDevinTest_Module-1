@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModifiers &amp; Encapsulation/AccessModifiers &amp; Encapsulation.iml" filepath="$PROJECT_DIR$/AccessModifiers &amp; Encapsulation/AccessModifiers &amp; Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Developer in Test-Dec 2019.iml" filepath="$PROJECT_DIR$/Developer in Test-Dec 2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit5/JUnit5.iml" filepath="$PROJECT_DIR$/JUnit5/JUnit5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Classes&amp;Objects/M1-Classes&amp;Objects.iml" filepath="$PROJECT_DIR$/M1-Classes&amp;Objects/M1-Classes&amp;Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Collections/M1-Collections.iml" filepath="$PROJECT_DIR$/M1-Collections/M1-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Data types and operators/M1-Data types and operators.iml" filepath="$PROJECT_DIR$/M1-Data types and operators/M1-Data types and operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-FileHandling/M1-FileHandling.iml" filepath="$PROJECT_DIR$/M1-FileHandling/M1-FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-Inheritence &amp; Abstraction/M1-Inheritence &amp; Abstraction.iml" filepath="$PROJECT_DIR$/M1-Inheritence &amp; Abstraction/M1-Inheritence &amp; Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-JUnit/M1-JUnit.iml" filepath="$PROJECT_DIR$/M1-JUnit/M1-JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M1-String Class/M1-String Class.iml" filepath="$PROJECT_DIR$/M1-String Class/M1-String Class.iml" />
+    </modules>
+  </component>
+</project>
